@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParkingManagement.Domain\ParkingManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CSharpFunctionalExtensions">
+      <HintPath>..\..\..\..\..\.nuget\packages\csharpfunctionalextensions\1.13.0\lib\netstandard2.0\CSharpFunctionalExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Ensure.That">
+      <HintPath>..\..\..\..\..\.nuget\packages\ensure.that\8.1.0\lib\netstandard2.0\Ensure.That.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

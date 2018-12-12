@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "9a335f86d3e2858a7244ae4688c84f7f223e3b26"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ParkingManagement.Common/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "1.13.0",
+          "Ensure.That": "8.1.0"
+        },
+        "runtime": {
+          "ParkingManagement.Common.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/1.13.0": {
+        "runtime": {
+          "lib/netstandard2.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "1.13.0.0",
+            "fileVersion": "1.13.0.0"
+          }
+        }
+      },
+      "Ensure.That/8.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Ensure.That.dll": {
+            "assemblyVersion": "8.1.0.91",
+            "fileVersion": "8.1.0.91"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingManagement.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/1.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PgUYQwL5eMa3jrEpH21hfV3HIihpJ/2/P3MLEpsd6HRgAQim/F2GgCdQbd1oatB9NYialhUR9tISnWXG8rWdMQ==",
+      "path": "csharpfunctionalextensions/1.13.0",
+      "hashPath": "csharpfunctionalextensions.1.13.0.nupkg.sha512"
+    },
+    "Ensure.That/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ke3Pbg2W7VxcjqLTtA4BQTU0gOQLCqtI/tAL3PEKQ7yDy1yx9MgN1v9/Siw3g/lYtb4EGvcd3ckgL9nvdy78Dg==",
+      "path": "ensure.that/8.1.0",
+      "hashPath": "ensure.that.8.1.0.nupkg.sha512"
+    }
+  }
+}

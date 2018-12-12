@@ -1,0 +1,12 @@
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.csprojAssemblyReference.cache
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.AssemblyInfo.cs
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\bin\Debug\netcoreapp2.1\ParkingManagement.Domain.deps.json
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\bin\Debug\netcoreapp2.1\ParkingManagement.Domain.dll
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\bin\Debug\netcoreapp2.1\ParkingManagement.Domain.pdb
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\bin\Debug\netcoreapp2.1\ParkingManagement.Common.dll
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\bin\Debug\netcoreapp2.1\ParkingManagement.Common.pdb
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.csproj.CopyComplete
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.dll
+C:\Users\rradeanu\Documents\Visual Studio 2017\Projects\ParkingManagement\ParkingManagement.Domain\obj\Debug\netcoreapp2.1\ParkingManagement.Domain.pdb
